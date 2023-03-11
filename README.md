@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @randalen
 - 👀 I’m interested in BackEnd projects, to build or escale amazing software products.
-- 🌱 I’m currently learning Python for DS and ML.
+- 🌱 I’m currently working with Python and React for web projects.
